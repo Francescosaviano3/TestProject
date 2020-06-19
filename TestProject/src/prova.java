@@ -5,6 +5,7 @@ public class prova {
    System.out.println("ciao");
 		// TODO Auto-generated method stub
    //savioano gay
+   System.out.println();
 
 	}
 
